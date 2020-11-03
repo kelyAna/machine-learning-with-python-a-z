@@ -2,10 +2,15 @@
 This repository has Udemy's Machine Learning and Data SCience course practices with Python, where several important Machine Learning topics were covered, such as:
 
 * Classification;
+
 * Regression;
+
 * Grouping;
+
 * Association;
+
 * Dimensionality reduction;
+
 * Detection of Outliers.
 
 the databases used were extracted from the [Kaggle](https://www.kaggle.com/).
