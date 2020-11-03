@@ -8,7 +8,7 @@ This repository has Udemy's Machine Learning and Data SCience course practices w
 * Dimensionality reduction;
 * Detection of Outliers.
 
-Bem como, a aplicação de diversos algoritmos à três bases de dados do Kaggle.
+Bem como, a aplicação de diversos algoritmos à três bases de dados do [Kaggle](https://www.kaggle.com/)
 
 # Data Science e Machine Learning com Estatística e Python
 
